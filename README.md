@@ -45,8 +45,9 @@ Exceptions to this are simple tools like Rider's single-line completion feature.
 
 1. Clone this repo:
 ```shell
-git clone https://github.com/space-wizards/space-station-14.git
+git clone https://github.com/Nexusleader-s-Crap/Halo14.git
 ```
+1a. I'm not sure if that will work, so if need be, just clone normal Wizden.
 2. Go to the project folder and run `RUN_THIS.py` to initialize the submodules and load the engine:
 ```shell
 cd space-station-14
